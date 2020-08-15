@@ -6,5 +6,9 @@ public class GitHub {
 		// TODO Auto-generated method stub
     int i;
 	}
+	public static void main(String[] args,int ad) {
+		// TODO Auto-generated method stub
+    int i;
+	}
 
 }
